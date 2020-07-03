@@ -9,3 +9,11 @@
     border-radius: 5px;
     text-align: center;
 }
+
+.item { 
+    margin: 5px;
+    padding: 10px 0 10px 0;
+    background-color: #3F9976;
+    border: black solid 1px;
+    text-align: center;
+ }
