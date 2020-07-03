@@ -1,0 +1,11 @@
+.container {
+    margin: 20px auto;
+    font-size: 1rem;
+}
+
+.st {
+    background-color: red;
+    border: black solid 1px;
+    border-radius: 5px;
+    text-align: center;
+}
